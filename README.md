@@ -1,9 +1,11 @@
 # Thanos.sh （灭霸脚本）
 
 此命令可以随机删除一半文件
+
 This command could delete half your files randomly
 
 不要在家里和其他地方使用它。这是一把真枪，明智地使用它......
+
 don't use it at home and other places. this is a real gun, use it wisely...
 
 ## Invoke-Thanos.ps1
